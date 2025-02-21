@@ -1,0 +1,377 @@
+﻿https://www.journalmc.org/index.php/JMC/article/view/3288/2597
+1. Parotid Gland Oncocytoma: A Rare Case and Literature Review
+1. Administrative & Demographic Details
+* Patient Identifier/Initials: Not explicitly provided in text
+* Age: 62 years old
+* Sex: Male
+* Location/Country: Not specified for the patient (study conducted in Tunisia)
+2. Chief Complaint / Reason for Referral
+* Painless swelling in the right parotid region, progressively enlarging over the course of 1 year.
+3. Relevant Medical History
+* No additional comorbidities, risk factors, or family history mentioned.
+* No facial nerve involvement and no mention of systemic diseases.
+4. Physical Examination Notes
+* A well-defined, 20 mm mass in the right parotid gland.
+* No palpable cervical lymph nodes.
+* No facial paralysis observed.
+* Stenon’s duct orifice was free on intraoral examination.
+5. Imaging & Diagnostic Tests
+* Ultrasound
+   * Revealed a 20 mm, well-circumscribed, hypoechoic, and vascularized mass in the superficial lobe of the right parotid gland.
+* Magnetic Resonance Imaging (MRI)
+   * T1-weighted: Hyposignal lesion with homogeneous enhancement after gadolinium injection.
+   * T2-weighted: Slight hypersignal mass in the superficial portion of the right parotid gland.
+   * Diffusion-weighted: Notable hypersignal with an apparent diffusion coefficient (ADC) of 1.36.
+   * Overall impression consistent with a benign tumor.
+6. Clinical Impression / Working Diagnosis
+* Imaging suggested a benign salivary gland tumor, likely a pleomorphic adenoma or similar benign lesion.
+7. Treatment & Intraoperative Findings
+* Procedure: Superficial parotidectomy with complete tumor excision and preservation of the facial nerve.
+* Intraoperative Frozen Section: Non-contributory (no definitive diagnosis).
+* Postoperative Course: No complications; facial nerve function intact.
+8. Histopathology / Final Diagnosis
+* Microscopic Findings
+   * Well-limited benign proliferation of large polygonal cells (oncocytes) with eosinophilic and granular cytoplasm, surrounded by a thin fibrous capsule.
+   * No necrosis, no mitotic activity.
+* Conclusion: Parotid oncocytoma (benign tumor).
+9. Outcome & Follow-Up
+* No recurrence observed after 3 years of follow-up.
+* No mention of additional treatment (radiotherapy/chemotherapy) since oncocytoma is benign and slow-growing.
+10. Additional Notes / Commentary
+* Oncocytomas are rare salivary gland tumors, accounting for less than 1% of all salivary gland neoplasms.
+* In this case, imaging (particularly MRI) and final histopathology confirmed the diagnosis.
+* Long-term follow-up is recommended due to rare reports of malignant transformation or recurrence if excision is incomplete.
+________________
+
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4478272/
+2. Pleomorphic Adenoma of the Parotid Gland: Report of a Case With Review of Literature
+
+
+1. Administrative & Demographic Details
+* Patient Identifier/Initials: Not provided (case anonymized)
+* Age: 50 years old
+* Sex: Female
+* Location/Country: Not explicitly stated; case reported in literature
+2. Chief Complaint / Reason for Referral
+* A slowly progressing, painless swelling on the left side of the face for 5 years.
+3. Relevant Medical History
+* Past medical and surgical history: Noncontributory
+* No significant comorbidities or systemic diseases noted.
+4. Physical Examination Findings
+* Extraoral Examination:
+   * Marked facial asymmetry due to a well-defined, ovoid, multilobular swelling measuring approximately 8 × 10 cm.
+   * The swelling extends superioinferiorly from the left zygomatic arch to about 1 cm below the lower border of the mandible, and anteroposteriorly from the mid-body region to the posterior border of the mandible.
+   * The left ear lobule is slightly everted; there is loss of skin wrinkling and visible engorged veins over the area.
+   * The mass is firm, non-tender, and warm on palpation, fixed to both the underlying structures and overlying skin.
+* Facial Nerve Assessment:
+   * Normal facial and eye movements, indicating intact facial nerve function.
+* Intraoral Examination:
+   * Unremarkable.
+5. Imaging & Diagnostic Tests
+* Panoramic Radiograph:
+   * No abnormalities detected.
+* Magnetic Resonance Imaging (MRI):
+   * Revealed a large (6.1 × 2.3 × 4.9 cm), well-defined, lobulated, heterogeneous lesion.
+   * The lesion involved the left upper gingivo-buccal sulcus, left retromolar region, and extended into bilateral pterygoid muscles; superior extension into the infratemporal fossa with infiltration of the infratemporal fat, bowing of the posterolateral wall of the left maxillary sinus, and lateral abutment against the masseter muscle.
+   * On T1-weighted images: Hypointense lesion.
+   * On T2-weighted images: Hyperintense lesion.
+* Ultrasonography:
+   * Showed a hypoechoic area in the left parotid gland.
+* Fine Needle Aspiration Cytology (FNAC):
+   * Demonstrated an admixture of epithelial, myoepithelial, and mesenchymal tissue elements.
+6. Clinical Impression / Differential Diagnosis
+* Provisional Diagnosis: Benign parotid gland tumor.
+* Differential Diagnoses Considered:
+   * Pleomorphic adenoma (most likely)
+   * Warthin's tumor
+   * Neuroma of the facial nerve (nerve sheath tumor)
+* Rationale:
+   * The slow, asymptomatic progression, imaging characteristics, and FNAC findings pointed toward a benign neoplasm, with pleomorphic adenoma being the most common and fitting the clinical picture.
+7. Treatment & Intraoperative Findings
+* Surgical Approach:
+   * Excision of the superior lobe of the left parotid gland along with the tumor mass via a modified Blair incision in the left preauricular region.
+* Operative Details:
+   * Dissection included careful separation of the platysma and superficial musculoaponeurotic layer (SMAS).
+   * Identification and preservation of facial nerve branches using a retrograde approach.
+   * The tumor was separated from both the facial nerve and the masseter muscle.
+* Gross Specimen:
+   * Dimensions: 8 × 10 × 12 cm
+   * Weight: Approximately 1.8 kilograms
+* Intraoperative Course:
+   * No complications reported; preservation of facial nerve function confirmed.
+8. Histopathology / Final Diagnosis
+* Microscopic Findings:
+   * A well-capsulated, highly cellular mass composed of sheets and islands of epithelial and myoepithelial cells with eosinophilic cytoplasm.
+   * Presence of mucoid (myxomatous) background material with chondroid and ductal differentiation, along with areas containing fat and osteoid.
+* Differential Considerations on Histology:
+   * Pleomorphic adenoma, myoepithelioma, and adenoid cystic carcinoma.
+* Definitive Diagnosis:
+   * The characteristic chondromyxoid foci and glanduloductal differentiation confirmed the diagnosis of pleomorphic adenoma of the left parotid gland.
+9. Outcome & Follow-Up
+* The patient was followed up for 3 years postoperatively with no signs of recurrence or complications.
+10. Additional Notes / Commentary
+* Imaging and FNAC:
+   * MRI and ultrasonography played key roles in delineating the lesion’s extent and characteristics. FNAC provided supportive cytological evidence.
+* Surgical Considerations:
+   * Emphasis was placed on the preservation of the facial nerve during the resection due to the tumor’s proximity to nerve branches.
+* Literature Context:
+   * Pleomorphic adenoma is the most common salivary gland neoplasm, frequently seen in the parotid gland, and is characterized by its mixed epithelial and mesenchymal features.
+* Clinical Importance:
+   * Early diagnosis and complete excision are crucial given the tumor’s potential for recurrence and the risk (albeit low) of malignant transformation if inadequately managed.
+________________
+
+
+https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-023-04280-7
+3. Carcinosarcoma of the parotid gland: a case report and review of the literature
+
+
+1. Administrative & Demographic Details
+* Patient Identifier/Initials: Not provided (case anonymized)
+* Age: 80 years old
+* Sex: Female
+* Ethnicity: White
+2. Chief Complaint / Reason for Referral
+* Progressive left facial swelling noted over the past 6–8 weeks.
+3. Relevant Medical History
+* Past Medical/Surgical History:
+   * No history of parotid lesions or prior salivary gland disorders.
+   * No associated symptoms such as dysphagia, odynophagia, fever, or weight loss.
+4. Physical Examination Findings
+* Inspection & Palpation:
+   * A 2.5 cm tender swelling with ill-defined borders over the left parotid region.
+   * The mass is localized to the parotid gland area; adjacent structures, including the temporomandibular joint, appear normal.
+5. Imaging & Diagnostic Tests
+* Ultrasonography:
+   * Revealed a hypoechoic mass in the left parotid gland measuring approximately 2.8 cm with poorly defined borders.
+* Magnetic Resonance Imaging (MRI):
+   * Demonstrated a well-defined cystic/necrotic mass in the left parotid gland measuring 3.4 × 3.0 × 3.0 cm.
+   * The lesion involves the superficial lobe and extends through the stylomandibular tunnel to involve the lateral aspect of the deep lobe.
+   * Heterogeneous signal on STIR sequences with areas of both increased and decreased signal intensity and heterogeneous enhancement, indicating cystic change/necrosis.
+* Fine Needle Aspiration Cytology (FNAC):
+   * Cytology reported as atypia of undetermined significance (Milan classification 3).
+   * Findings included scattered clusters and single cells with an increased nuclear-to-cytoplasmic ratio, hyperchromasia, and background necrosis with lymphocytes and neutrophils.
+6. Clinical Impression / Differential Diagnosis
+* Initial Impression:
+   * Suspicion for a malignant process in the left parotid gland based on imaging and cytology.
+* Differential Diagnoses Considered:
+   * Carcinosarcoma (malignant mixed tumor)
+   * Carcinoma ex pleomorphic adenoma (less likely given the absence of pre-existing benign elements)
+   * Other primary salivary gland malignancies
+7. Treatment & Intraoperative Findings
+* Surgical Intervention:
+   * Left total parotidectomy with selective neck dissection (levels 2 and 3).
+   * Soft tissue reconstruction performed using the sternocleidomastoid muscle.
+* Intraoperative Findings:
+   * The deep lobe of the parotid revealed a 3.5 × 2.9 × 2.9 cm, white-tan, focally calcified lesion abutting the resection margin.
+   * Intraoperative frozen section consultation reported findings consistent with adenocarcinoma with a poorly differentiated component.
+8. Histopathology / Final Diagnosis
+* Microscopic Findings:
+   * The resected tumor exhibited two distinct components:
+      * Carcinomatous Component:
+         * Adenoid cystic carcinoma with predominant tubular and cribriform growth patterns and focal solid areas.
+         * Notable perineural invasion was observed.
+      * Sarcomatous Component:
+         * High-grade spindle cell neoplasm featuring occasional giant cells, scattered mitoses, and extensive necrosis.
+         * Areas showing chondroid (cartilaginous) differentiation consistent with chondrosarcoma.
+* Immunohistochemistry Profile:
+   * Adenoid Cystic Component:
+      * Positive for epithelial markers: CAM 5.2, CD117, p63, SMMH, p40, CK7, pancytokeratin AE1/AE3, and GATA-3.
+   * Sarcomatous Component:
+      * Negative for epithelial markers but strongly positive for vimentin.
+      * S-100 positivity highlighted focal chondroid differentiation.
+      * High Ki-67 proliferation index (50–70%) in the sarcomatous areas.
+* Final Diagnosis:
+   * Carcinosarcoma of the parotid gland, composed of an adenoid cystic carcinoma (carcinomatous element) and chondrosarcoma (sarcomatous element).
+   * No evidence of a pre-existing pleomorphic adenoma was identified.
+9. Outcome & Follow-Up
+* Postoperative Management:
+   * The patient is currently receiving radiotherapy targeted at the tumor bed and skull base, addressing the high propensity for perineural invasion by the adenoid cystic component.
+* Lymph Node Status:
+   * Selective neck dissection revealed negative lymph nodes for metastatic carcinoma.
+10. Additional Notes / Commentary
+* Tumor Characteristics:
+   * Carcinosarcoma is an extremely rare and aggressive malignancy, accounting for 0.04–0.16% of all salivary gland tumors.
+   * The biphasic nature (distinct carcinomatous and sarcomatous components) underscores its aggressive clinical course and poor prognosis.
+* Prognostic Considerations:
+   * These tumors exhibit high rates of distant metastasis (up to 54% in some studies) and generally have a poor long-term survival rate.
+* Literature Context:
+   * This case is notable as it represents the first reported instance of a carcinosarcoma of the parotid gland with an adenoid cystic carcinoma component combined with chondrosarcoma.
+* Clinical Implications:
+   * Aggressive treatment, including radical surgery and adjuvant radiotherapy, is indicated due to the tumor’s high-grade nature and aggressive behavior.
+* Future Considerations:
+   * Further studies are warranted to better understand the tumorigenesis and optimal management strategies for this rare entity.
+________________
+https://www.ijcrioncology.com/archive/article-full-text/100128Z10JZ2024
+   4. A case of primary squamous cell carcinoma of the parotid gland and review of the literature
+1. Administrative & Demographic Details
+   * Patient Identifier/Initials: Not provided (case anonymized)
+   * Age: 62 years old
+   * Sex: Male
+   * Ethnicity: Not specified
+   * Institution/Location: Shanxi Medical University / First Hospital of Shanxi Medical University, Taiyuan, Shanxi, China
+2. Chief Complaint / Reason for Referral
+   * Painless mass in the left preauricular region present for more than two months.
+3. Relevant Medical History
+   * Past Medical/Surgical History:
+   * No previous history of a mass in the parotid or neck region.
+   * No documented systemic illnesses or previous head and neck malignancies.
+4. Physical Examination Findings
+   * Local Findings:
+   * Palpable mass in the left parotid gland, approximately 3 cm × 2 cm × 2 cm in size.
+   * Mass is hard, fixed to surrounding tissues, non-tender, and associated with adherence to adjacent structures.
+   * No facial paralysis initially noted; however, intraoperative findings later indicated possible involvement of the marginal mandibular branch of the facial nerve.
+   * Regional Findings:
+   * Multiple enlarged cervical lymph nodes were palpated.
+5. Imaging & Diagnostic Tests
+   * Enhanced Computed Tomography (CT):
+   * Demonstrated a soft tissue shadow adjacent to the left masseter muscle, involving both the masseter and parotid gland, suggestive of a malignant lesion of salivary gland origin.
+   * Magnetic Resonance Imaging (MRI):
+   * Revealed abnormal signals in the left masseter muscle and parotid gland.
+   * Findings raised the possibility of an infectious process with abscess formation, though malignancy remained in the differential.
+   * Fine-Needle Aspiration Cytology (FNAC):
+   * Initial cytology showed inflammatory cell infiltration, multinucleated cell aggregates, and small foci of moderate heterogeneous epithelial hyperplasia.
+   * Immunohistochemical results:
+   * CK8/18: Negative
+   * p63: Positive
+   * Ki67: Approximately 20% positivity
+   * S100, SMA, CD163, SOX: Negative
+   * AB/PAS special stain: Negative
+   * Preliminary interpretation favored a diagnosis of lymphadenitis over a neoplasm.
+6. Clinical Impression / Differential Diagnosis
+   * Preoperative Impression:
+   * Initial consideration was lymphadenitis, with tumor possibility remaining under investigation due to inconclusive FNAC.
+   * Final Diagnostic Considerations:
+   * Primary squamous cell carcinoma (SCC) of the parotid gland was suspected after intraoperative findings and subsequent frozen section analysis.
+   * Differential diagnoses included metastatic SCC (ruled out by thorough workup) and high-grade mucoepidermoid carcinoma (excluded by PAS-negative staining).
+7. Treatment & Intraoperative Findings
+   * Surgical Intervention:
+   * The patient underwent resection of the parotid tumor under general anesthesia.
+   * Initial intraoperative frozen section (from the left parotid mass) suggested an inflammatory lesion.
+   * Due to evolving intraoperative findings, the surgical plan was modified:
+   * Resection of the parotid tumor with dissection of the facial nerve (FN) was performed.
+   * A second intraoperative frozen section confirmed a moderately differentiated squamous cell carcinoma.
+   * An extended resection of the malignant tumor along with supraglottic lymphadenectomy was subsequently carried out.
+   * Intraoperative Findings:
+   * The tumor was located in the deep lobe of the parotid gland, with no clear peripheral capsule and an unclear boundary.
+   * The tumor exhibited a hard texture and poor mobility, with tight adherence to the marginal mandibular branch of the FN.
+   * Intraoperative frozen analysis of the lymph nodes showed no metastatic carcinoma.
+8. Histopathology / Final Diagnosis
+   * Permanent Section Findings:
+   * Moderately differentiated squamous cell carcinoma of the parotid gland.
+   * Immunohistochemistry Results:
+   * CK: Positive
+   * CK7: Negative
+   * p40: Positive
+   * p63: Positive
+   * p53: Mutant pattern (positive)
+   * Ki67: Approximately 40% positivity
+   * Final Diagnosis:
+   * Primary squamous cell carcinoma (SCC) of the parotid gland.
+   * Notes on Diagnosis:
+   * The absence of other primary SCC lesions in the head, neck, or distant sites (metastatic workup) supported the diagnosis of a primary parotid SCC.
+   * The diagnosis was challenging due to initial false-negative FNAC findings and overlapping features with inflammatory processes.
+9. Outcome & Follow-Up
+   * Postoperative Management:
+   * The patient was advised to undergo postoperative adjuvant radiotherapy (ART) approximately one month after surgery.
+   * Due to personal reasons, ART was postponed.
+   * Current Status:
+   * On follow-up, the patient exhibits signs of facial nerve involvement (facial paralysis of the left lower lip and altered left frontal line).
+   * No signs of local recurrence have been reported so far.
+   * Long-Term Considerations:
+   * Close and lifetime monitoring is recommended due to the aggressive nature of primary parotid SCC and its high risk of recurrence and distant metastasis.
+10. Additional Notes / Commentary
+   * Epidemiology & Prognosis:
+   * Primary parotid SCC is rare, accounting for 0.1–3.4% of all parotid tumors.
+   * The disease is typically aggressive with a dismal prognosis despite multimodal treatment.
+   * Diagnostic Challenges:
+   * FNAC has limited sensitivity for malignant parotid tumors, often yielding false-negative results due to sampling issues, necrosis, or inflammatory masking.
+   * Intraoperative frozen sections play a crucial role in guiding surgical management.
+   * Treatment Implications:
+   * Extended resection and selective neck dissection are recommended.
+   * Postoperative ART is critical to decrease the risk of locoregional recurrence, though its impact on overall survival remains debatable.
+   * Clinical Awareness:
+   * A high index of suspicion is necessary even for asymptomatic individuals to avoid misdiagnosis, especially given the complex presentation and variable pathologic findings in primary parotid SCC.
+
+
+________________
+
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4246609/#:~:text=A%2054%2Dyear%2Dold%20male%20presented%20with%20a%20moderate%2C,fixed%20to%20the%20overlying%20skin.
+   5. Salivary duct carcinoma of the parotid gland: A case report and review of the literature
+
+
+1. Administrative & Demographic Details
+   * Patient Identifier/Initials: Not provided (case anonymized)
+   * Age: 54 years old
+   * Sex: Male
+   * Ethnicity: Not specified
+2. Chief Complaint / Reason for Referral
+   * Painless swelling in the right parotid region, present for approximately two weeks.
+3. Relevant Medical History
+   * Past Medical/Surgical History:
+   * No history of fever, constitutional symptoms, or previous parotid lesions reported.
+   * The patient did not have any significant comorbidities mentioned.
+4. Physical Examination Findings
+   * Inspection & Palpation:
+   * A firm, mobile lump in the right parotid region, not fixed to the overlying skin.
+   * No palpable pathological cervical lymph nodes on clinical examination.
+   * Facial Nerve Function:
+   * Normal; facial nerve function was preserved.
+5. Imaging & Diagnostic Tests
+   * Magnetic Resonance Imaging (MRI):
+   * T1-weighted gadolinium-enhanced MRI revealed a neoplasm of approximately 2 cm in diameter located in the deep lobe of the right parotid gland with involvement of the exofacial parotid gland.
+   * The lesion was radiologically classified as cT3cNxcM0.
+   * Computed Tomography (CT) of the Chest:
+   * Negative for distant metastatic lesions.
+   * Fine Needle Aspiration Cytology (FNAC):
+   * Not detailed in the abstract; however, intraoperative histology suggested a malignant tumor.
+   * Additional Imaging:
+   * (Refer to Figure 1 for MRI imaging details.)
+6. Clinical Impression / Differential Diagnosis
+   * Initial Impression:
+   * Aggressive malignant neoplasm of the parotid gland.
+   * Differential Diagnoses Considered:
+   * Salivary duct carcinoma (SDC), given its histological resemblance to ductal carcinoma of the breast.
+   * Staging:
+   * Clinically staged as cT3cNxcM0 before surgery and finalized as pT4pN2pM0 postoperatively.
+7. Treatment & Intraoperative Findings
+   * Surgical Intervention:
+   * Total parotidectomy with conservation of the facial nerve.
+   * Modified ipsilateral radical neck dissection performed, yielding eight hard and enlarged lymph nodes at cervical levels III and IV.
+   * Intraoperative Findings:
+   * The largest lymph node (1.5 × 1.5 cm) at level III showed early infiltration of the sternocleidomastoid muscle.
+   * Frozen sections of lymph nodes confirmed malignancy in six out of eight nodes.
+   * Reconstruction:
+   * The surgical defect was covered with a sternocleidomastoid muscle flap.
+8. Histopathology / Final Diagnosis
+   * Microscopic Findings:
+   * Tumor arranged in a glandular pattern with central necrosis (comedo-like necrosis) in both primary site and involved lymph nodes.
+   * Immunohistochemical Profile:
+   * Positive Markers:
+   * HER-2: Overexpression noted.
+   * High molecular weight cytokeratin (CK-H): Diffusely positive.
+   * CK8/CK18: Moderately positive.
+   * p63 and calponin: Weakly positive in the myoepithelial cells surrounding the ducts.
+   * Negative Markers:
+   * Estrogen receptor (ER) and progesterone receptor (PR).
+   * Final Diagnosis:
+   * Salivary duct carcinoma (SDC) of the right parotid gland.
+9. Outcome & Follow-Up
+   * Postoperative Management:
+   * Adjuvant post-operative radiation therapy applied (60 Gy, delivered as 2 Gy twice a day, five days a week) to the surgical bed and right neck area due to the aggressive nature of the tumor.
+   * Pathological Staging:
+   * pT4pN2pM0.
+   * Follow-Up:
+   * At three years post-treatment, the patient remains free of tumor recurrence.
+10. Additional Notes / Commentary
+   * Tumor Characteristics:
+   * SDC is a rare, aggressive malignancy that histologically resembles ductal carcinoma of the breast.
+   * High propensity for early cervical lymph node involvement and distant metastasis (commonly to the lungs and bones) is noted.
+   * Therapeutic Considerations:
+   * In advanced cases, targeted therapies with anti-HER-2 monoclonal antibodies (e.g., trastuzumab) may be beneficial.
+   * The immunohistochemical profile (HER-2 positive; ER and PR negative) aids in distinguishing SDC from breast ductal carcinoma.
+   * Prognosis:
+   * SDC typically has a poor prognosis with high rates of locoregional recurrence and distant metastases. Radical surgical resection combined with adjuvant radiotherapy is the current standard of care.
+   * Literature Context:
+   * This case underscores the importance of comprehensive pathological and immunohistochemical analysis to guide treatment and improve diagnostic accuracy in rare salivary gland malignancies.

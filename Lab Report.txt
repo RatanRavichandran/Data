@@ -1,0 +1,40 @@
+﻿Patient Information:
+• Patient ID: [Anonymized]
+• Age: 50 years
+• Sex: Female
+
+
+Tests Ordered:
+1. Complete Blood Count (CBC)
+2. Basic Metabolic Panel (BMP)
+3. Fine Needle Aspiration Cytology (FNAC) – Salivary Gland Evaluation
+
+
+Results:
+
+
+1. Complete Blood Count (CBC):
+   • White Blood Cells: 6.8 x10³/µL (Reference: 4.0–10.0)
+   • Hemoglobin: 13.2 g/dL (Reference: 12.0–15.5)
+   • Platelets: 250 x10³/µL (Reference: 150–400)
+   • Red Blood Cells and other parameters are within normal limits.
+
+
+2. Basic Metabolic Panel (BMP):
+   • Sodium: 138 mmol/L (Reference: 135–145)
+   • Potassium: 4.2 mmol/L (Reference: 3.5–5.0)
+   • Creatinine: 0.9 mg/dL (Reference: 0.6–1.2)
+   • Glucose: 90 mg/dL (Reference: 70–100)
+   • Other metabolic values are unremarkable.
+
+
+3. Fine Needle Aspiration Cytology (FNAC) – Salivary Gland Lesion:
+   • Specimen Quality: Moderately cellular with a mix of cohesive cell clusters and dispersed elements.
+   • Cytological Findings: 
+       - Epithelial cells arranged in clusters with a moderate amount of myxoid background.
+       - No significant atypia, mitotic figures, or necrosis observed.
+   • Interpretation: Cytomorphologic features are consistent with a benign salivary gland process. The findings support a benign neoplastic lesion; however, correlation with imaging and clinical findings is recommended for a definitive diagnosis.
+
+
+Conclusion:
+The CBC and BMP are within normal ranges, indicating no systemic abnormalities. The FNAC specimen demonstrates features of a benign salivary gland lesion. Although the cytological evaluation suggests a benign process, further radiological correlation is advised to fully assess the lesion’s characteristics and extent.
